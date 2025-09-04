@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Problems", "Problems", "{BEC6521A-F901-2BBF-F273-35A4FDC6E8A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "904.FruitIntoBaskets", "Problems\904.FruitIntoBaskets\904.FruitIntoBaskets.csproj", "{D4842A48-77BD-8B10-3E99-D9E6F6B2D28B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4842A48-77BD-8B10-3E99-D9E6F6B2D28B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4842A48-77BD-8B10-3E99-D9E6F6B2D28B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4842A48-77BD-8B10-3E99-D9E6F6B2D28B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4842A48-77BD-8B10-3E99-D9E6F6B2D28B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{D4842A48-77BD-8B10-3E99-D9E6F6B2D28B} = {BEC6521A-F901-2BBF-F273-35A4FDC6E8A1}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DB6B55D3-1A23-4B5B-8401-3DCA6D92592E}
+	EndGlobalSection
+EndGlobal
